@@ -1,0 +1,18 @@
+# Bytecode & Cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environments
+.venv/
+venv/
+env/
+
+# Plot Exports
+*.png
+*.jpg
+*.pdf
+
+# IDEs & System
+.idea/
+.vscode/
+.DS_Store
